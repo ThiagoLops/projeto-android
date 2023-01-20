@@ -64,7 +64,6 @@ header {
     background-image: linear-gradient(to bottom, var(--cor4), var(--cor6)); 
     min-height: 150px;
     text-align: center;
-    padding-top: 30px;
 }
 
 header > h1 {
@@ -72,6 +71,7 @@ header > h1 {
     font-family:var(--font-destaque);
     font-size: 3em;
     font-weight: normal;
+    padding-top: 20px;
     margin-bottom: 20px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.274);
 }
@@ -84,6 +84,7 @@ header > p {
     margin: auto;
     padding-left: 10px;
     padding-right: 10px;
+    padding-bottom: 40px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.274);
 }
 
